@@ -10,6 +10,7 @@
 * [Overview](#overview)
 * [Story](#story)
 * [Postlude](#postlude)
+* [Resources](#resources)
 * [Bonus](#bonus)
 * [Credits](#credits)
 
@@ -32,7 +33,7 @@ Hi, here are some rules to carry out this story oav;
 
 > Don't forget, there is no useless question :-)
 
-* You **MUST** return the project on Tuesday Octber, 9 at 16:00 pm by sending an MP on discord with the link of your github repo.
+* You **MUST** return the project on Tuesday November, 9 at 16:00 pm by sending an MP on discord with the link of your github repo.
 
 ## <a name='overview'>🐱 Overview</a>
 
@@ -59,6 +60,10 @@ You **MUST** do the same by using **GraphQL Github API** available [here](https:
 Take a look at the screen below ;<br />
 Everything in red is **MANDATORY** and **ROSE** is optionnal
 ![](./sourcerer.majdi.png)
+
+## <a name='resources'> Resources </a>
+[learn-graphql](https://graphql.org/learn/)
+[how-to-graphql](https://www.howtographql.com/basics/0-introduction/)
 
 ## <a name='bonus'>🦄 Bonus</a>
 
