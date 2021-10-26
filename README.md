@@ -33,7 +33,7 @@ Hi, here are some rules to carry out this story oav;
 
 > Don't forget, there is no useless question :-)
 
-* You **MUST** return the project on Tuesday November, 9 at 16:00 pm by sending an MP on discord with the link of your github repo.
+* You **MUST** return the project on Tuesday November, 9 at 23:42 pm by sending an MP on discord with the link of your github repo.
 
 ## <a name='overview'>🐱 Overview</a>
 
